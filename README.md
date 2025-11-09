@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- 👋 INTRO SECTION -->
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">🚀 Passionate Developer | Android Enthusiast | Tech Explorer 🚀</h3>
