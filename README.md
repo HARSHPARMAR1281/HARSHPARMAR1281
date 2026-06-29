@@ -28,11 +28,11 @@
 
 | Category | Technologies |
 |-----------|---------------|
-| 💻 Languages | C++, C, Kotlin, JavaScript |
-| 🎨 Frontend | HTML, CSS, JS |
-| 📱 Mobile | Android (XML + Jetpack Compose) |
-| 🗃️ Database | MongoDB |
-| ⚙️ Tools | Git, GitHub, VS Code, Android Studio |
+| 💻 Languages | C++, C, Kotlin, Dart, JavaScript |
+| 🎨 Frontend | HTML, CSS, Flutter, JS |
+| 📱 Mobile | Android (XML + Jetpack Compose), CROSS PLATFORM |
+| 🗃️ Database | MongoDB, SQL |
+| ⚙️ Tools | Git, GitHub, VS Code, Android Studio, Docker |
 
 ---
 
