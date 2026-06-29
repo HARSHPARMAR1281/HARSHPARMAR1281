@@ -40,6 +40,9 @@
 ### 🎯 **Current Focus**
 ```text
 ✔️ Android Development
+✔️ APP Development
 ✔️ UI/UX with Jetpack Compose
 ✔️ Backend integration using MongoDB
 ✔️ Competitive Programming (C++)
+
+---
